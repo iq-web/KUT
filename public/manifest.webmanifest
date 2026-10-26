@@ -1,0 +1,10 @@
+{
+  "name": "ERASE — مستلزمات مكتبية",
+  "short_name": "ERASE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#e84a35",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

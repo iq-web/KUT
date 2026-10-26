@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 720">
+  <rect width="640" height="720" fill="#e8e4da"/>
+  <path d="M0 160h640M0 220h640M0 280h640M0 340h640M0 400h640M0 460h640M0 520h640" stroke="#88918a" stroke-opacity=".16"/>
+  <path d="m216 393 124-124 84 84-124 124z" fill="none" stroke="#e6533d" stroke-width="5"/>
+  <path d="m340 269 36-36 84 84-36 36" fill="#e6533d" fill-opacity=".26" stroke="#e6533d" stroke-width="5"/>
+  <path d="m216 393-26 83 83-25" fill="#f3f0e8" stroke="#e6533d" stroke-width="5"/>
+  <text x="320" y="560" fill="#66706a" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" letter-spacing="5">ERASE / IMAGE</text>
+</svg>
